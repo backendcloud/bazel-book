@@ -5,6 +5,9 @@
 # Starlark 语言
 
 > 参考 <a href="https://www.backendcloud.cn/2022/07/01/bazel-starlark/" target="_blank">https://www.backendcloud.cn/2022/07/01/bazel-starlark/</a>
+>
+> 参考 [Starlark语言](./basic/bazel-starlark.md)
+
 
 # 宏和规则（Macros and rules）
 
