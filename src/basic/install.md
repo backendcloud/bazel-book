@@ -1,5 +1,4 @@
 
-
 # install bazel 的两种方式
 
 > 官方不推荐windows平台，只推荐Linux平台。所以windows下就别用Bazel了。
