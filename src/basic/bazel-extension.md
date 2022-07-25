@@ -4,8 +4,6 @@
 
 # Starlark 语言
 
-> 参考 <a href="https://www.backendcloud.cn/2022/07/01/bazel-starlark/" target="_blank">https://www.backendcloud.cn/2022/07/01/bazel-starlark/</a>
->
 > 参考 [Starlark语言](./bazel-starlark.md)
 
 
