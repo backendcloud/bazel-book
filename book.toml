@@ -1,0 +1,6 @@
+[book]
+authors = ["hanwei"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Bazel在企业项目中的应用"
