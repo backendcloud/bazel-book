@@ -187,13 +187,6 @@ INFO: Build completed successfully, 1 total action
 
 ```bash
  ⚡ root@localhost  ~/tt-bazel  cat small/BUILD.bazel small/miniature.bzl 
-load("//small:miniature.bzl","miniature")
-
-miniature(
-    name = "logo_miniature",
-    src = "image.png",
-)
-
 
 def miniature(name, src, size="100x100", **kwargs):
   """Create a miniature of the src image.
@@ -209,14 +202,6 @@ def miniature(name, src, size="100x100", **kwargs):
   )
 
  ⚡ root@localhost  ~/tt-bazel  cat small/BUILD.bazel small/BUILD.bazel  
-load("//small:miniature.bzl","miniature")
-
-miniature(
-    name = "logo_miniature",
-    src = "image.png",
-)
-
-
 load("//small:miniature.bzl","miniature")
 
 miniature(
