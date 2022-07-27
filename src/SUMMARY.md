@@ -10,5 +10,6 @@
   - [Bazel Golang hello-world](./basic/bazel-go-hello.md)
   - [Bazel rules_docker 使用](./basic/bazel-rules-docker.md)
   - [Bazel 构建 protobuf](./basic/bazel-protobuf-demo.md)
+  - [Bazel 构建 grpc server&client](./basic/bazel-grpc-demo.md)
   - [work in process 。。。]()
 - [work in process 。。。]()
