@@ -9,5 +9,6 @@
   - [写一个简单的 Golang rules](./basic/bazel-rules-go-simple.md)
   - [Bazel Golang hello-world](./basic/bazel-go-hello.md)
   - [Bazel rules_docker 使用](./basic/bazel-rules-docker.md)
+  - [Bazel 构建 protobuf](./basic/bazel-protobuf-demo.md)
   - [work in process 。。。]()
 - [work in process 。。。]()
