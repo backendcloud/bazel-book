@@ -2,7 +2,7 @@
 本篇的源码放在： https://github.com/backendcloud/example/tree/master/bazel-remote
 
 
-使用以前发过的文章 [Bazel Golang hello-world](./basic/bazel-go-hello.md) 里的 bazel-hello-go 项目。
+使用以前发过的文章 [Bazel Golang hello-world](./bazel-go-hello.md) 里的 bazel-hello-go 项目。
 
 
 配置使用bazel remote cache。可以bazel命令行增加`--remote_cache=`参数，但是需要每条命令都加。为了简便可以将其配置到配置文件中。
