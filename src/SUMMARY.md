@@ -11,5 +11,6 @@
   - [Bazel rules_docker 使用](./basic/bazel-rules-docker.md)
   - [Bazel 构建 protobuf](./basic/bazel-protobuf-demo.md)
   - [Bazel 构建 gRPC server&client](./basic/bazel-grpc-demo.md)
+  - [Bazel remote cache](./basic/bazel-remote.md)
   - [work in process 。。。]()
 - [work in process 。。。]()
