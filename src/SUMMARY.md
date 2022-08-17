@@ -13,5 +13,7 @@
   - [Bazel 构建 protobuf](./basic/bazel-protobuf-demo.md)
   - [Bazel 构建 gRPC server&client](./basic/bazel-grpc-demo.md)
   - [Bazel remote cache](./basic/bazel-remote.md)
+  - [发布一个开源小项目 rules_docker_for_insecure_registries](./basic/rules-docker-for-insecure-registries.md)
+  - [bazeldnf 的简单使用](./basic/bazeldnf-demo.md)
   - [work in process 。。。]()
 - [work in process 。。。]()
